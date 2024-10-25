@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+.container {
+    @apply mx-auto p-4;
+}
+.color-text-white{
+    @apply text-white;
+}
+.color-text-black{
+    @apply text-black;
+}
